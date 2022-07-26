@@ -17,5 +17,5 @@
     - ### Bitmask:
         https://www.topcoder.com/thrive/articles/A%20bit%20of%20fun:%20fun%20with%20bits
 - ## Binary search:
-    https://codeforces.com/blog/entry/96699
-    https://www.geeksforgeeks.org/binary-search/ 
+    - https://codeforces.com/blog/entry/96699
+    - https://www.geeksforgeeks.org/binary-search/ 
